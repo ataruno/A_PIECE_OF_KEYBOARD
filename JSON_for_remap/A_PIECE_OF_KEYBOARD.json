@@ -1,9 +1,7 @@
 {
-    "name": "a_piece_of_keyboard",
+    "name": "A_PIECE_OF_KEYBOARD",
     "vendorId": "0xAAAB",
     "productId": "0x0001",
-    "menus":[],
-    "keycodes":[],
     "matrix":{"cols":6,"rows":9},
     "layouts":{
         "keymap":[
