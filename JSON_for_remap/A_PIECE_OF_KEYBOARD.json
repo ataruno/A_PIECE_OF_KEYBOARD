@@ -1,5 +1,5 @@
 {
-    "name": "A_PIECE_OF_KEYBOARD",
+    "name": "A PIECE OF KEYBOARD",
     "vendorId": "0xAAAB",
     "productId": "0x0001",
     "matrix":{"cols":6,"rows":9},
