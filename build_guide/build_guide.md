@@ -97,12 +97,14 @@ USB部分は横から見ると以下のようになります。
 上部カバーをはめて、裏向きにし、3か所ねじ止め(長)します。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_hard/26_%E3%82%AB%E3%83%90%E3%83%BC%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81.jpg)
 
-## 完成
+## 組み立ての完成
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_hard/31_%E5%AE%8C%E6%88%90.jpg)
 
 ## 部品について
 家庭用の3Dプリンターで製造しているため、製造にばらつきがあります。ご了承ください。  
 ロットによって細いパーツの有り無しがあります。  
+事前に組み立てを行い、問題ないと判断したものをキットとしています。
+ご理解のほどよろしくお願いいたします  
 
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_hard/41_%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E8%83%8C%E9%9D%A2.jpg)
 
@@ -114,9 +116,9 @@ Githubにあるhexファイルをダウンロードしてください。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/51_remap%E3%81%B8%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9.jpg)
 
 ### hexファイルの書き込み
-以下ではRemapでのプログラム書き込みを説明します。
-その他の書き込み手段としては、Pro Micro Web UpdaterやQMK Toolboxでも可能です。
-(ブラウザはChrome、Edgeで書き込みできることを確認済です。)
+以下ではRemapでのプログラム書き込みを説明します。  
+その他の書き込み手段としては、Pro Micro Web UpdaterやQMK Toolboxでも可能です。  
+(ブラウザはChrome、Edgeで書き込みできることを確認済です。)  
 
 Remap右上のアイコンをクリックしてください。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/52_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jpg)
@@ -143,32 +145,8 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 パーセンテージも100%になれば完了です。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/53_hex%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF7.jpg)
 
-![ ]()
-![ ]()
-![ ]()
-![ ]()
-![ ]()
-
-
-方法2：Remapにあるhexファイルをダウンロードしてください。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## キーマップのカスタマイズ設定
+キーマップの設定もRemapを活用できます。  
 
 
 
