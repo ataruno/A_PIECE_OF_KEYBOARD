@@ -20,11 +20,19 @@
 | リセットスイッチ | 1個         |
 | 20pinコネクタ    | 1セット     |
 
-### スイッチについて
-Kailh Wizard Switch (Tactile Switch)
-注：ビルドガイドではKailh Ghost Switchが映っていますが、<br>キットにはWizard Switchが含まれます。
-
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/01_%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9_%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%82%E3%82%8A.jpg)
+
+### スイッチについて  
+スイッチはKailh Wizard Switch (Tactile Switch)です。  
+注：ビルドガイドではKailh Ghost Switchが映っていますが、<br>キットにはWizard Switchが含まれます。  
+
+## ご自身で手配いただくもの
+### promicro
+1つ  
+※複数つなげる場合でも1つあれば接続可能です。  
+
+### コンスルー or ピンヘッダ
+2つ、2.5mm、12ピン  
 
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/02_promicro.jpg)
 
