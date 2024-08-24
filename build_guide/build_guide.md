@@ -23,13 +23,12 @@
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/01_%E3%82%AD%E3%83%83%E3%83%88%E5%86%85%E5%AE%B9_%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%82%E3%82%8A.jpg)
 
 ### スイッチについて  
-スイッチはKailh Wizard Switch (Tactile Switch)です。  
-注：ビルドガイドではKailh Ghost Switchが映っていますが、<br>キットにはWizard Switchが含まれます。  
+Kailh Wizard Switch (Tactile Switch)がセットに含まれます。  
+注：ビルドガイドでは一部Kailh Ghost Switchが映っていますが、キットにはWizard Switchが含まれます。  
 
 ## ご自身で手配いただくもの
 ### promicro
-1つ  
-※複数つなげる場合でも1つあれば接続可能です。  
+1つ ※複数つなげる場合でも1つあれば接続可能です。  
 
 ### コンスルー or ピンヘッダ
 2つ、2.5mm、12ピン  
@@ -37,32 +36,36 @@
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/02_promicro.jpg)
 
 ## はんだ付け
-### 裏面(部品無し→はんだ付け後)
+### 裏面(はんだ付け前→はんだ付け後)
 
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/11_%E5%9F%BA%E6%9D%BF_%E8%A3%8F.jpg)
 
-裏面からのはんだ付けです。  
+以下の部品、部分をはんだ付けしてください。  
+ダイオード→DIPスイッチ→ホットスワップ→キースイッチの順がはんだ付けしやすいです。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/12_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E7%AE%87%E6%89%80_%E8%A3%8F.jpg)
 
-#### ダイオード
+#### ダイオードの向き
 基板の矢印の方向に、ダイオードの横線を合わせてください。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/13_%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89%E6%96%B9%E5%90%91_%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3.jpg)
 
 #### DIPスイッチ
+基板の番号とDIPスイッチの番号印字が同じになるようはんだ付けしてください。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/16_DIP%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81.jpg)
 
 #### キースイッチ
-promicroと表裏で重なる部分はホットスワップでなくはんだ付けです。  
+promicroと表裏で重なる2箇所はホットスワップでなくはんだ付けです。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/18_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E5%BE%8C2.jpg)
+
+
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/17_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E5%BE%8C1.jpg)
 
 ### 表面(部品無し→はんだ付け後)
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/14_%E5%9F%BA%E6%9D%BF_%E8%A1%A8.jpg)
 
-表面のはんだ付けです。  
+以下の部品、部分をはんだ付けしてください。  
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/15_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E7%AE%87%E6%89%80_%E8%A1%A8.jpg)
 
 
-![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/17_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E5%BE%8C1.jpg)
 
 ## 組み立て
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/21_%E3%83%9C%E3%83%88%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.jpg)
