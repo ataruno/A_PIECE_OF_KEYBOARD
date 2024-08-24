@@ -30,6 +30,7 @@
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/31_%E5%AE%8C%E6%88%902.jpg)
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/41_%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E8%83%8C%E9%9D%A2.jpg)
 
+## aaa
 
 
 
