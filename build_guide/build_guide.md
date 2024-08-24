@@ -67,7 +67,9 @@ promicroを付けると以下のようになります。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/14_%E5%9F%BA%E6%9D%BF_%E8%A1%A8.jpg)
 
 以下の部分をはんだ付けしてください。  
-※部品は裏面側です。表面からはんだ付けを行ってください。  
+リセットスイッチ、20pinコネクタともに部品は裏面側です。  
+表面からはんだ付けを行ってください。  
+※1切れで使う場合(他ユニットと接続しない場合)は20pinコネクタは不要です。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image/15_%E3%81%AF%E3%82%93%E3%81%A0%E4%BB%98%E3%81%91%E7%AE%87%E6%89%80_%E8%A1%A8.jpg)
 
 ## 組み立て
