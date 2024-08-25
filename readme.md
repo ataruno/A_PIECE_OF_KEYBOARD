@@ -17,7 +17,7 @@ When you combine 6 pieces, it forms a whole pizza🍕
 [ビルドガイドリンク](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide.md)
 
 ## Where to Buy
-Comming soon
+Booth：[🍕型マクロパッド「A PIECE OF KEYBOARD」](https://ataruno.booth.pm/items/6039646)
 
-## 写真
+## Photo Gallery
 ![Example Image](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_2.JPEG)
