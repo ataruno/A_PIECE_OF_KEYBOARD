@@ -148,6 +148,23 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 ## キーマップのカスタマイズ設定
 キーマップの設定もRemapを活用できます。  
 
+[Remap](https://remap-keys.app/)へ接続してください。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/61_Remap%E3%81%A7%E3%81%AE%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA.jpg)
 
+"+KEYBOARD"をクリックしてください。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/62_%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E9%81%B8%E6%8A%9E.jpg)
+
+接続一覧から"A PIECE OF KEYBOARD"を選択し、"接続"をクリックしてください。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/63_%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E6%8E%A5%E7%B6%9A.jpg)
+
+キーマップが表示されます。レイヤーは0から4までの5レイヤーが設定可能です。  
+
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E8%A1%A8%E7%A4%BA.jpg)
+
+
+![ ]()
+![ ]()
+![ ]()
+![ ]()
 
 
