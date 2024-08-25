@@ -4,7 +4,6 @@
 - [ご自身で手配いただくもの](#ご自身で手配いただくもの)
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
-- [組み立ての完成](#組み立ての完成)
 - [部品について](#部品について)
 - [プログラム書き込み(Remap)](#プログラム書き込みremap)
 - [キーマップのカスタマイズ設定](#キーマップのカスタマイズ設定)
@@ -106,7 +105,7 @@ USB部分は横から見ると以下のようになります。
 上部カバーをはめて、裏向きにし、3か所ねじ止め(長)します。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_hard/26_%E3%82%AB%E3%83%90%E3%83%BC%E3%81%AD%E3%81%98%E6%AD%A2%E3%82%81.jpg)
 
-## 組み立ての完成
+### 組み立ての完成
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_hard/31_%E5%AE%8C%E6%88%90.jpg)
 
 ## 部品について
