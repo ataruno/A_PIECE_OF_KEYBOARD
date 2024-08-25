@@ -21,3 +21,7 @@ Booth：[🍕型マクロパッド「A PIECE OF KEYBOARD」](https://ataruno.boo
 
 ## Photo Gallery
 ![Example Image](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_2.JPEG)
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_3.jpg)
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_4.jpg)
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/image/A_PIECE_OF_KEYBOARD_5.jpg)
+
