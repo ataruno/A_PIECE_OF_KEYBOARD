@@ -158,13 +158,15 @@ Bootloaderはcaterinaを選択し、FLASHをクリック。
 ![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/63_%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E6%8E%A5%E7%B6%9A.jpg)
 
 キーマップが表示されます。レイヤーは0から4までの5レイヤーが設定可能です。  
+上からから反時計回りに、DIPスイッチの1から6に対応しています。DIPスイッチの7,8は特に機能はないです。  
+ピンセットなどを用いてDIPスイッチのどれか1つをONにしてください。  
+複数がONになっているとキーを押したときの入力が変になります。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E3%81%A8DIP%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81.jpg)
 
-![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/64_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E8%A1%A8%E7%A4%BA.jpg)
+キーマップの編集が終わったら、右上の"flash"をクリックしてください。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/65_%E3%82%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%83%97%E7%B7%A8%E9%9B%86.jpg)
 
-
-![ ]()
-![ ]()
-![ ]()
-![ ]()
+右上が"SUCCESS"になればキーマップの書き換え完了です。  
+![ ](https://github.com/ataruno/A_PIECE_OF_KEYBOARD/blob/main/build_guide/build_guide_image_remap/65_%E6%9B%B4%E6%96%B0%E5%AE%8C%E4%BA%86.jpg)
 
 
